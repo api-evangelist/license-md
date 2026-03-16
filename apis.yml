@@ -1,13 +1,23 @@
+aid: license-md
 name: LICENSE.md
-description: File specifying the legal license under which a project is distributed,
+description: >-
+  File specifying the legal license under which a project is distributed,
   defining permissions, conditions, and limitations for use and redistribution.
-url: ''
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Legal
-- Open Source
-- Licensing
-- Compliance
-created: '2025'
-modified: '2025'
+  - Legal
+  - Open Source
+  - Licensing
+  - Compliance
+url: https://raw.githubusercontent.com/api-evangelist/license-md/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - url: https://choosealicense.com/
+    type: Website
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
