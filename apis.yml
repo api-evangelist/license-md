@@ -6,7 +6,7 @@ description: >-
   Standard reference for SPDX-identified open source licenses including MIT,
   Apache-2.0, GPL-3.0, BSD, and Creative Commons variants.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Compliance
   - Legal
