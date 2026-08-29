@@ -6,6 +6,17 @@ description: >-
   Standard reference for SPDX-identified open source licenses including MIT,
   Apache-2.0, GPL-3.0, BSD, and Creative Commons variants.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
