@@ -1,5 +1,6 @@
 aid: license-md
 name: LICENSE.md
+x-type: convention
 description: >-
   File specifying the legal license under which a project is distributed,
   defining permissions, conditions, and limitations for use and redistribution.
