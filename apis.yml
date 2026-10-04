@@ -34,7 +34,7 @@ tags:
   - Compliance
   - Legal
   - Licensing
-  - Open-Source
+  - Open Source
   - SPDX
   - License
 tags_raw:
@@ -44,6 +44,7 @@ tags_raw:
   - Open Source
   - SPDX
   - License
+  - Open-Source
 url: https://raw.githubusercontent.com/api-evangelist/license-md/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-04-28'
