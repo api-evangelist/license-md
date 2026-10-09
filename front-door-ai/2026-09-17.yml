@@ -1,0 +1,27 @@
+# Front Door AI Index — license-md — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: license-md
+  lexicon_version: '1.0'
+  probed_at: '2026-09-25'
+  host: choosealicense.com
+  final_host: choosealicense.com
+  ownership: own
+  owner: license-md
+  shares_host_with: null
+  inherited_from: null
+  alias_of: null
+  verdict: silent
+  score: 0
+  band: 1
+  band_label: silent
+  host_score: 0
+  density: 0.0
+  words: 256
+  tiers:
+    agentic: 0
+    core: 0
+    model: 0
+  ambiguous: 0
+  top_terms: null
